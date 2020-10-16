@@ -49,6 +49,6 @@ img{
 img:hover{
     width:500px;
     height: 300px;
-     transform: translate3d(20px, 10px, 10px); 
+     transform: rotate(20deg); 
     opacity: .9;
 }
